@@ -1,0 +1,126 @@
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 20px;
+  }
+
+body {
+    background-color:rgb(227, 186, 255); ;
+}
+
+.aboutus p {
+font-size: larger;
+
+}
+
+
+.owner {
+  font-size: larger;
+}
+  
+
+/* <!--.links {
+  background-color:#D58FFF;
+  text-align:center;
+
+}
+
+.links ul li a {
+  background-color:#D58FFF;
+   color:white;
+  font-size:20px;
+
+}
+
+.links ul li {
+  background-color:#D58FFF;
+  display: inline;
+  padding: 45px 50px 0px 50px ; 
+}
+
+.links ul {
+  float:right;
+}--> */
+
+.logo img{
+
+width:75px;
+height:75px ;
+float: left;
+margin-top: -57px;
+
+}
+
+.customise{
+  padding-bottom: 15px;
+
+}
+
+.delivery {
+  float:right;
+}
+
+
+
+
+@media screen and (min-width:390px){
+  .aboutus p{
+   display:block;
+  }
+
+  .aboutus table td{
+    width:100%
+  }
+  
+  
+}
+
+
+@media screen and (max-width:390px){
+
+  .services{
+    width:100%
+  }
+  
+  
+}
+
+.table{
+  text-align:center;
+  background-color: rgb(198, 137, 255);
+  font-family: 'Times New Roman';
+}
+
+.two{
+  font-family: 'Times New Roman';
+}
+
+.contacts{
+  width:80%;
+
+}
+
+.number{
+  color:black;
+  text-align:center;
+  background-color:#D58FFF;
+  font-size:20;
+}
+
+.img{
+  text-align:right;
+
+}
+
+.link{
+  color:white;
+  text-align:center;
+  background-color:#D58FFF;
+  font-size:17px;
+  
+}
+
+.link a{
+font-family: 'Times New Roman';
+color:black;
+}
